@@ -5,9 +5,9 @@ navigation:
     url: "./index.html"
     urlTitle: 'Вернуться на главную'
     dark:
-      icon: 'https://s899sas.storage.yandex.net/rdisk/6fa2b70acb9a86dde8f941447f1fc24e03cfaa118f4e9d54686153c93d386caa/6954518b/rjeQiW5LrIKzhJ_bBYhp4-1j8ePZ0MPmvOqT8CtQSwyB-Cd-777eDk1beP46yBesIKG_43poexwOhZ0NBzQ_jg==?uid=671194322&filename=Frame%204.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=671194322&fsize=1403&hid=c836ac22dcf3c8c0d787ac2154fa0979&media_type=image&tknv=v3&etag=d007df8812f508c1c3501580fd983709&ts=64732d93f38c0&s=130bac91d0bcaa67b68158f3534205bfa8aaa0ecebaf4860ba84245bd5031935&pb=U2FsdGVkX1-w5-w-lgatg9miE9nZcG7vNx-8Qi0ooLBB3TY0Xz53U9GHWySqyStAu7qQOcX8uIuoMfqDQhrajghYn6_W40n4uxmWRXNjr3M'
+      icon: 'https://i.ibb.co/YBFBtS1Y/logo1.jpg'
     light:
-      icon: 'https://s899sas.storage.yandex.net/rdisk/6fa2b70acb9a86dde8f941447f1fc24e03cfaa118f4e9d54686153c93d386caa/6954518b/rjeQiW5LrIKzhJ_bBYhp4-1j8ePZ0MPmvOqT8CtQSwyB-Cd-777eDk1beP46yBesIKG_43poexwOhZ0NBzQ_jg==?uid=671194322&filename=Frame%204.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=671194322&fsize=1403&hid=c836ac22dcf3c8c0d787ac2154fa0979&media_type=image&tknv=v3&etag=d007df8812f508c1c3501580fd983709&ts=64732d93f38c0&s=130bac91d0bcaa67b68158f3534205bfa8aaa0ecebaf4860ba84245bd5031935&pb=U2FsdGVkX1-w5-w-lgatg9miE9nZcG7vNx-8Qi0ooLBB3TY0Xz53U9GHWySqyStAu7qQOcX8uIuoMfqDQhrajghYn6_W40n4uxmWRXNjr3M'
+      icon: 'https://i.ibb.co/YBFBtS1Y/logo1.jpg'
     target: _self
   header:
     leftItems:
@@ -49,8 +49,6 @@ items:
     href: tickets/troika.md
   - name: Разовые билеты
     href: tickets/one_ticket.md
-  - name: Транзитные билеты
-    href: tickets/tranz_tickets.md
 - name: Юридический отдел
   labeled: true
   items:
